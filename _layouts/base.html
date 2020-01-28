@@ -12,6 +12,8 @@ common-js:
   - "/js/jquery-1.11.2.min.js"
   - "/js/bootstrap.min.js"
   - "/js/main.js"
+  - "/js/three.r95.min.js"
+  - "/js/vanta.dots.min.js"
 ---
 
 <!DOCTYPE html>
@@ -20,16 +22,27 @@ common-js:
   {% include head.html %}
 
   <body>
-
-    {% include gtm_body.html %}
-  
-    {% include nav.html %}
-
-    {{ content }}
-
-    {% include footer.html %}
-  
-    {% include footer-scripts.html %}
-  
+    {% include gtm_body.html %} {% include nav.html %}
+    <div id="dots">
+      {{ content }}
+    </div>
+    {% include footer.html %} {% include footer-scripts.html %}
+    <script>
+      VANTA.DOTS({
+        el: "#dots",
+        mouseControls: true,
+        touchControls: true,
+        minHeight: 200.00,
+        minWidth: 200.00,
+        scale: 1.00,
+        scaleMobile: 1.00,
+        color: 0x727272,
+        color2: 0xffffff,
+        backgroundColor: 0xffffff,
+        spacing: 28.00,
+        size:3.2,
+        showLines: false
+      })
+    </script>
   </body>
 </html>
