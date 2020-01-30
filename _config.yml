@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Anuj Bansal
+title: Shubham Mishra
 
 # Short description of your site
 # description: A virtual proof that I'm awesome
@@ -57,7 +57,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Anuj Bansal
+  name: Shubham Mishra
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -65,9 +65,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "bansalanuj9@gmail.com"
-  github: ab63
-  twitter: anuj63
+  email: "shivam828787@gmail.com"
 #facebook: deanattali
 #  reddit: yourname
 #  linkedin: daattali
@@ -115,7 +113,6 @@ share-links-active:
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "ab63-github-io"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
