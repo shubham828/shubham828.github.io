@@ -8,7 +8,7 @@ tags: [KDE, Season of KDE]
 Hey everyone.. This is the first time,i get the chance to work for an organisation and that too the mighty one - KDE. My project is to add multiple datasets in some of Gcompris activities.
 
 My first exposure to KDE was in December 2020, i was bit lost in Big KDE world at starting but KDE dev's helped me alot to get started started.
-i would specially like to thanks (Valorie)[https://twitter.com/valoriez?lang=en] to have that 2 hour chat with me and told me, how thing's work here.
+i would specially like to thanks [Valorie](https://twitter.com/valoriez?lang=en) to have that 2 hour chat with me and told me, how thing's work here.
 
 Half period of the KDE has Passed and Till now it has been awesome, incredible learning experience and it was not that easy as i thought but i have super helpful mentors Johnny Jazeix and emmanuel charruau :). i have completed enumerate and smallnumbers2 activities, algebra_by still lefts. 
 
