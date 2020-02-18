@@ -19,6 +19,7 @@ Challenge i found while working on this activity is to merging of Activity's pre
 Final look of activity
 
 ![Algebra Activity](/img/algebra.png "Algebra Activity")
+
 ![Dataset](/img/dataset.png "dataset")
 
 
