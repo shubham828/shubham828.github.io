@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selected For GSOC 2020 :)
+title: Selected For GSoC 2020 :)
 subtitle: Part 1
 tags: [KDE, Google Summer of Codes]
 ---
