@@ -11,4 +11,4 @@ So yeah, I am really excited to begin one more journey with Gcompris after succe
 
 I would say the key factor for my selection in GSoC is my involvement with community. I have been contributing since last December, I was active on IRC, discussing stuffs and also submitted my proposal for reviews, quite early which gave a decent amount of time to mentors to review it properly and suggest appropriate changes.
 
-Stay tuned, I will share my goals and further journey with Gcompis in upcoming blogs.
+Stay tuned, I will share my goals and further journey with Gcompris in upcoming blogs.
