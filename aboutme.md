@@ -6,7 +6,7 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Shubham,. I have the following qualities:
 
-- I like to be diturbed while eating
+- I don't like to be disturbed while eating
 - I'm extremely loyal to sweet dishes
 
 What else do you need?
