@@ -21,8 +21,7 @@ The activities I am going to deal with -
 * Build the same model
 * find the details
  
-That's it for now, Keep checking this blog. I'll keep sharing my progress here.
-In the meantime, checkout GCompris here [link](https://gcompris.net/wiki/Installation) or directly install from Google Play Store.
+That's it for now, Keep checking this blog. I'll keep sharing my progress here. In the meantime, checkout GCompris here [link](https://gcompris.net/wiki/Installation) or directly install from Google Play Store.
  
 Stay safe and have fun.
 
