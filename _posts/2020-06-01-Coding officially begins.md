@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Community Bonding
+title: Coding officially begins
 subtitle: Part 3
 tags: [KDE, Google Summer of Codes]
 ---
