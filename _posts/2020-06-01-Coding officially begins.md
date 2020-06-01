@@ -6,6 +6,7 @@ tags: [KDE, Google Summer of Codes]
 ---
 
 Hi,
+
 Today, the Community bonding period finally ended and GSoC's three months coding period officially begins.
 
 In the last month, I made myself more familiar with git, qml and javascript. As KDE including Gcompris has been moved to Gitlab so I also changed the configuration of my local repository accordingly and tested it. I read codes of almost all the activities (hope I didn't miss any) and I am quite comfortable with all now.
