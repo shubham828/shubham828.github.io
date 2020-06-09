@@ -8,9 +8,7 @@ Hello Everyone,
 
 The first week has been completed with an amazing start for me.  I have completed my first milestone i.e sudoku activity. You can see implemented datasets in the below image.
 
-<div>
-<img src="attachment:/img/sudoku_dataset.png" width="500" height="300"/>
-</div>
+![Sudoku Activity](/img/sudoku_dataset.png "Sudoku Activity")
 
 For this activity, Testing was a more time-consuming task rather than implementation. I have solved countless sudoku's while adding datasets in this :). Surprisingly this activity didn't bring up any unexpected behavior or bug (yeah that happens rarely) and it's now in the "user testing" stage before getting merged.
 
