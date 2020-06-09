@@ -14,4 +14,4 @@ For this activity, Testing was a more time-consuming task rather than implementa
 
 This time in GSoC, I am working on my separate branch and it feels good to work on your own branch, now I have to think a bit more before writing my commit messages :).
 
-Stay safe and take care
+Stay safe and healthy.
