@@ -48,6 +48,7 @@ As the name suggests, in this activity pupils have to equally distribute candies
 <p align ="center">These are the datasets </p> <br><br>
 
 ![Share JSON Activity](/img/share_json.png "Share JSON Activity")
+
 Part of JSON file, which anyone can use to customize levels
 
 
