@@ -13,7 +13,7 @@ Our motive behind adding multiple datasets in activities is to make the difficul
  *GCompris code has been divided into two parts/folders i.e “activities” and “core” part*s.
 
 ## Activities parts
-The Activities folder includes the implementation of each activity, it contains 1 folder per activity and every folder further contains a QML file, javascript file, and resource folder. Here QML is for designing the user interface, javascript (.js) files contain the main logic of the activity and resource folders, as the name suggests it, contains all the resources for activities Images are good examples for resource folder.
+The Activities folder includes the implementation of each activity, it contains 1 folder per activity and every folder further contains a QML file, javascript file, and resource folder. Here QML is for designing the user interface, javascript (.js) files contain the main logic of the activity and resource folders, as the name suggests it, contains all the resources for activities. Images are good examples for resource folder.
 
 ## Core Parts
 Many elements i.e, help button, bonus which pupils see after successfully completing the level, menu bar and even the base container of each activity are the same in many activities. So, obviously rewriting them every time for each activity is time-consuming and makes the code difficult to maintain.  This is why we have a core folder that contains core files which can be easily imported and used by any activity.
