@@ -6,11 +6,11 @@ tags: [KDE, Google Summer of Codes]
 ---
 Hi everyone
 
-It has been two weeks since my last post. In this time period, I took forward my project, adding multiple datasets and completed “share pieces of candies” and “locate the region” activities.
+It has been two weeks since my last post. In this time period, I took forward my project, adding multiple datasets and completed “share pieces of candies” and “locate the regions” activities.
 
 Our motive behind adding multiple datasets in activities is to make the difficulty range of activities wider. This way the same activity can be easily configured to be played by pupils of different ages or capabilities.
 
-### GCompris code has been divided into two parts/folders i.e “activities” and “core” part. 
+ *GCompris code has been divided into two parts/folders i.e “activities” and “core” part*s.
 
 ## Activities parts
 The Activities folder includes the implementation of each activity, it contains 1 folder per activity and every folder further contains a QML file, javascript file, and resource folder. Here QML is for designing the user interface, javascript (.js) files contain the main logic of the activity and resource folders, as the name suggests it, contains all the resources for activities Images are good examples for resource folder.
