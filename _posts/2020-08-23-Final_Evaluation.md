@@ -7,7 +7,7 @@ tags: [KDE, Google Summer of Codes]
 
 Hi everyone,
 
-pheww!... GSoC coding period is in its last stage, The final evaluation is starting from tomorrow, I am really happy that all activities have been finished on time, 7 of them have merged in master and I hope the last one would also merge soon.
+Pheww!... GSoC coding period is in its last stage, The final evaluation is starting from tomorrow, I am really happy that all activities have been finished on time, 7 of them have merged in master and I hope the last one would also merge soon.
 
 This month, I have worked on the last two remaining activities -
 
